@@ -1,0 +1,12 @@
+{
+    "db-connections": {
+        "mongodb":{
+            "host": "cluster0.35z40.mongodb.net",
+            "user": "acad_rest_api_user",
+            "password": "oDjZ3iVDo9g11yWF",
+            "dbname": "DemoProdDB"
+        }
+    },
+    "server-port": 3000
+}
+
